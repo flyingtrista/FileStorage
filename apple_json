@@ -35,7 +35,7 @@
 				"monitor":
 				{
 					"InchesDesc":"6.1 吋 (對角線) 全螢幕 OLED 顯示器",
-					"pixelresolution":"2556 x 1179 像素，460 ppi 解析度",
+					"pixelresolution":"2556 x 1179 像素，460 ppi 解析度"
 				},
 				
 				"Info":{
@@ -161,7 +161,7 @@
 				"monitor":
 				{
 					"InchesDesc":"6.7 吋 (對角線) 全螢幕 OLED 顯示器",
-					"pixelresolution":"2796 x 1290 像素，460 ppi 解析度",
+					"pixelresolution":"2796 x 1290 像素，460 ppi 解析度"
 				},
 				
 				"Info":{
@@ -300,7 +300,7 @@
 				"monitor":
 				{
 					"InchesDesc":"6.1 吋 (對角線) 全螢幕 OLED 顯示器",
-					"pixelresolution":"2532 x 1170 像素，460 ppi 解析度",
+					"pixelresolution":"2532 x 1170 像素，460 ppi 解析度"
 				},
 				
 				"Info":{
@@ -429,7 +429,7 @@
 				"monitor":
 				{
 					"InchesDesc":"6.7 吋 (對角線) 全螢幕 OLED 顯示器",
-					"pixelresolution":"2778 x 1284 像素，458 ppi 解析度",
+					"pixelresolution":"2778 x 1284 像素，458 ppi 解析度"
 				},
 				
 				"Info":{
