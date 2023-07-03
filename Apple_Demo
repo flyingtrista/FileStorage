@@ -1,0 +1,55 @@
+{
+    "IPhone": {
+      "Detail": {
+        "productName": 'iPhone 11',
+        "baseImgUrl": './img/iphone11-select-2019-family.png'
+      },
+      "OutWard": [
+        { "color": '紅色', "colorValue": '#ff0000', "imageUrl": './img/iphone-red.png' },
+        { "color": '黃色', "colorValue": '#ffff00', "imageUrl": './img/iphone-yellow.png' },
+        { "color": '黑色', "colorValue": '#000000', "imageUrl": './img/iphone-black.png' },
+      ],
+      "Spec": {
+        "Storge": [
+          { "size": '64GB', "fit": 24900 },
+          { "size": '128GB', "fit": 26900 },
+          { "size": '256GB', "fit": 30400 },
+        ]
+      }
+    },
+    "IPad": {
+      "Detail": {
+        "productName": 'iPad',
+        "baseImgUrl": './img/ipad-hero-unselected-201909_GEO_TW.png'
+      },
+      "OutWard": [
+        { "color": '太空灰色', "colorValue": '#6e6969', "imageUrl": './img/ipad-space.png' },
+        { "color": '銀色', "colorValue": '#b9aeae', "imageUrl": './img/ipad-silver.png' },
+        { "color": '金色', "colorValue": '#ceb7a8', "imageUrl": './img/ipad-gold.png' },
+      ],
+      "Spec": {
+        "Storge": [
+          { "size": '32GB', "fit": 10900 },
+          { "size": '128GB', "fit": 13900 },
+        ]
+      }
+    },
+    "MacPro": {
+      "Detail": {
+        "productName": 'MacPro 13',
+        "baseImgUrl": './img/mbp13touch-space-gallery1-201907.png'
+      },
+      "OutWard": [
+        { "color": '太空灰色', "colorValue": '#6e6969', "imageUrl": './img/mbp13touch-space.png' },
+        { "color": '銀色', "colorValue": '#b9aeae', "imageUrl": './img/mbp13touch-silver.png' },
+      ],
+      "Spec": {
+        "Storge": [
+          { "size": '256GB', "fit": 51300 },
+          { "size": '512GB', "fit": 57300 },
+          { "size": '1TB', "fit": 63300 },
+          { "size": '2TB', "fit": 75300 },
+        ]
+      }
+    }
+  }
